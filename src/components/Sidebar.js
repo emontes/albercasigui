@@ -2,7 +2,7 @@ import React from "react"
 import { AppContext } from "../context/context"
 import styles from "../css/sidebar.module.css"
 import { FaTimes } from "react-icons/fa"
-import links from "../constants/Links"
+import links from "../constants/links"
 import { Link } from "gatsby"
 
 const Sidebar = () => {
